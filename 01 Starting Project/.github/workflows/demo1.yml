@@ -43,4 +43,4 @@ jobs:
       - name: Output filename
         run: echo
       - name: deploy
-        run: echo "deploying..."
+        run: echo "deploying"
